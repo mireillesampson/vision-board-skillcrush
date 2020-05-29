@@ -1,0 +1,127 @@
+/***THIS IS THE BODY***/
+
+body {
+  background-color: #E8E8E8;
+  font-family: 'Montserrat', sans-sans-serif;
+  color: #3B3B3B;
+  font-size: 20px;
+}
+
+h1 {
+  font-size:38px;
+  margin-top: 0;
+}
+
+h2 {
+  color: #FFFFFF;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+
+p {
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+h2 span {
+  font-family: 'Permanent Marker', cursive;
+}
+
+h3 span {
+  background-color: #FFF44F;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  padding-left: 375px;
+  line-height: 250%;
+  font-variant: uppercase;
+  color: #3B3B3B;
+}
+
+/***THIS IS THE VISION BOARD SECTION***/
+
+#vision-board {
+  background: url('../img/background.png');
+  background-size: cover;
+  font-family: 'Montserrat', sans-serif;
+  height: 850px;
+  margin: auto;
+  overflow: auto;
+  width: 1200px;
+  border-top: 30px solid #E8E8E8;
+}
+
+.block {
+  float: left;
+  width: 400px;
+  box-sizing: border-box;
+}
+
+.small-block {
+	height: 210px;
+}
+
+.large-block {
+	height: 430px;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.light-bg {
+  background-color: #FFFFFF;
+}
+
+.dark-bg {
+  background-color: #3B3B3B;
+}
+
+.fd {
+  padding-top: 25px;
+  padding-left:110px;
+}
+
+.eye {
+  padding-top: 55px;
+}
+
+.piggy {
+  padding-left: 35px;
+  padding-top: 55px;
+}
+
+.list-one {
+  padding-top: 15px;
+}
+
+.list-two {
+  padding-top: 35px;
+}
+
+.plane {
+  padding-top: 45px;
+  padding-right: 40px;
+}
+
+.one {
+  padding-left: 35px;
+  padding-top: 15px;
+}
+.nine {
+  padding-right: 35px;
+  padding-top: 10px;
+}
